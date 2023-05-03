@@ -3,7 +3,7 @@
 My name is **Rio Adiwijaya**.
 
 - I'm currently studying at STMIK Amik Bandung
-- I'm currently learning Cloud Computing
+- I'm currently learning Web Development
 <!--
 **rioadi14/rioadi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
